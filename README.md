@@ -11,7 +11,9 @@
 ## Purpose
 <p>In this project, we want show solution to slove this problem.</p>
 <ul>
-  <li>Short-term: At rush hours crossroads, road fork. Red light signal will leave instead of yellow light signal, and arrange traffic controllers at those locations</li>
-  <li>Long-term: Change the time frame between people going to work and going to school. Encourage commuters to travel by train when completed or by bus. Residential evacuation...</li>
+  <li>Short-term: During peak hours, the red light signal at the intersections and junctions will change to the yellow light signal. Arrange traffic controllers to control there.</li>
+  <li>Long-term: Change the time frame between people going to work and going to school. Encourage commuters to travel by train or bus. Residential evacuation...</li>
 </ul>
+
 ## Model predict.
+<p>Model using linear regression to evaluate. Model show result not good, so we can't using model to predict traffic congestion state in the future.</p>
